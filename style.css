@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+ 
+  .controls {
+    position: absolute;
+    text-align: center;
+    margin-left: 37%;
+    top: 25%;
+    background-color: rgb(5, 5, 151);
+  }
+  .container{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 5%;
+    color: burlywood;
+    background-color: darkblue;
+    width: 100%;
+}
+  .button {
+    color: burlywood;
+    font-size: 40px;
+    margin: 28px;
+    text-decoration: none;
+  }
+  .button:hover {
+    color:white
+  }
+  
+  .stopwatch {
+    font-size: 50px;
+    line-height: 650%;
+    text-align: center;
+    color: black;
+    margin-top: 15px;
+    background-color: burlywood;
+    margin-left: 35%;
+    margin-right: 35%;
+    box-shadow: 2px 4px gray;
+  }
+  h2{
+    text-align: center;
+    color: indigo;
+    font-size: 30px;
+  }
